@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "uyga vazifa",
+    "completed": true,
+    "userid": "1"
+  },
+  {
+    "id": 2,
+    "title": "tekshirish",
+    "completed": false,
+    "userid": "2"
+  },
+  {
+    "id": 3,
+    "title": "dam olish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 4,
+    "title": "pdpga kelish",
+    "completed": false,
+    "userid": "3"
+  },
+  {
+    "id": 5,
+    "title": "hat yuborish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 6,
+    "title": "o\u0027qish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 7,
+    "title": "yozish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 8,
+    "title": "kuylash",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 9,
+    "title": "ovqatlanish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 10,
+    "title": "chizish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 11,
+    "title": "uchish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 12,
+    "title": "kuylash",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 13,
+    "title": "suzish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 14,
+    "title": "futbol",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 15,
+    "title": "kod yozish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 16,
+    "title": "proektni tugatish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 17,
+    "title": "darsga borish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 18,
+    "title": "nonushta qilish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 19,
+    "title": "nonushta",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 20,
+    "title": "baliq tutish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 21,
+    "title": "Gmaildan javob berish",
+    "completed": false,
+    "userid": "1"
+  },
+  {
+    "id": 22,
+    "title": "Mazza qilib uxlash",
+    "completed": false,
+    "userid": "1"
+  }
+]

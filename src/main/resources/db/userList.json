@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "fullName": "Davronov Otabek",
+    "login": "Otabek",
+    "password": "7777",
+    "isAdmin": true
+  },
+  {
+    "id": 2,
+    "fullName": "Samandarov Oqil",
+    "login": "Oqil",
+    "password": "1111",
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "fullName": "Og\u0027abek Samandarov",
+    "login": "ogabek",
+    "password": "8888",
+    "isAdmin": false
+  }
+]
